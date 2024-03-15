@@ -1,0 +1,189 @@
+*{
+    font-family: "Outfit", sans-serif;;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(30, 54%, 90%);
+}
+
+#pr-container {
+    width: 740px;
+    height: 1995px;
+    background-color: #fff;
+    border-radius: 16px;
+    margin-top: 5rem;
+    margin-bottom: 6rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    display: flexbox;
+}
+
+.omelette-img {
+    text-align: center;
+}
+
+.omelette-img img {
+    max-width: 700px;;
+    max-height: 350px;
+    padding: 1rem;
+    border-radius: 25px;
+}
+
+h1 {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-size: 38px;
+    text-align: left;
+    padding: 1rem;
+    padding-left: 1.3rem;
+    color: hsl(24, 5%, 18%);
+    letter-spacing: 1px;
+}
+
+p {
+    font-family: "Outfit", sans-serif;
+    font-size: 16px;
+    text-align: left;
+    color:hsl(24, 5%, 18%);
+    padding: 1rem 2.5rem;
+    padding-left: 1.3rem;
+    
+}
+
+.container {
+    width: 650px;
+    height: 180px;
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 16px;
+    margin-top: 1.5rem;
+    margin: 1.3rem;
+    padding: 1rem;
+    align-items: center;
+}
+
+h3{
+    font-family: "Outfit", sans-serif;
+    color: hsl(332, 51%, 32%);
+    padding-left: 1rem;
+}
+
+.container p {
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 0 auto;
+    padding-top: 0.3rem;
+    
+    
+    
+}
+
+.container ul {
+    font-family: "Outfit", sans-serif;
+    font-size: 16px;
+    padding: 2.5rem;
+    padding-top: 0;
+    line-height: 0;
+    list-style: none;
+}
+     
+ul li:before {content: "\2022"; 
+    color: hsl(332, 51%, 32%);
+    display: inline-block; 
+    width: 1.5rem;
+    margin-left: -1em
+}
+
+h2 {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: hsl(14, 45%, 36%);
+    letter-spacing: 0.5px;
+    padding-top: 1rem;
+    
+}
+
+ul.topicos{
+   padding: 1rem;
+}
+
+
+hr {
+    color: hsl(30, 18%, 87%);
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 30px;
+    color: hsl(14, 45%, 36%);
+    letter-spacing: 0.5px;
+    padding-top: 2rem;
+}
+
+ol {
+   font-family: "Outfit", sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+   padding: 1rem;
+   line-height: 1.5rem;
+   list-style-type: decimal;
+   counter-reset: li;
+   padding-top: 0;
+}
+
+li:before { 
+    content: counter(li);
+    counter-increment: li;
+    color: hsl(14, 45%, 36%);
+    display: inline-block; 
+    width: 1.5rem;
+    margin-left: -1em;
+    font-weight: 400;
+    font-size: 16px;
+    padding-top: 0;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 30px;
+    color: hsl(14, 45%, 36%);
+    letter-spacing: 0.5px;
+    padding-top: 2rem;
+}
+
+.nutrition p {
+   font-family:  "Outfit", sans-serif;
+   padding-left: 0;
+   padding-top: 1rem;
+}
+
+.texto {
+    font-family: "Outfit", sans-serif;
+    word-spacing: 275px;
+    display: flexbox;
+
+ 
+}
+
+.texto1 {
+    font-family: "Outfit", sans-serif;
+    word-spacing: 291px;
+    display: flexbox;
+}
+
+.texto2 {
+    font-family: "Outfit", sans-serif;
+    word-spacing: 283px;
+    display: flexbox;
+}
+
+.texto3 {
+    font-family: "Outfit", sans-serif;
+    word-spacing: 310px;
+    display: flexbox;
+}
