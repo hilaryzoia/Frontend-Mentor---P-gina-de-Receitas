@@ -19,7 +19,7 @@
     <h2>Buscando Evolução 🚀</h2>
     <p> Este projeto me possibilitou colocar em prática meus conhecimentos básicos sobre HTML e CSS, além de também ter me dado a chance de aprender sobre como realizar projetos de forma singular, apenas utilizando meu próprio conhecimento básico sobre o assunto. Por mais que não seja o melhor resultado de todos, estou feliz com a minha evolução e meu desempenho e pretendo aprender cada dia mais sobre o assunto.</p>
     <h2>Deploy 🔥</h2>
-    <p>Para realizar o deploy do meu projeto, utilizei a própria ferramenta de hospedagem do GitHub, o GitHub Pages   <a href="https://github.com/hilaryzoia/Frontend-Mentor---P-gina-de-Receitas"> Clique Aqui</a> para visualizar o projeto.</p>
+    <p>Para realizar o deploy do meu projeto, utilizei a própria ferramenta de hospedagem do GitHub, o GitHub Pages   <a href="https://hilaryzoia.github.io/Frontend-Mentor---P-gina-de-Receitas/"> Clique Aqui</a> para visualizar o projeto.</p>
 </head>
 <body>
     
